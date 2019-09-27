@@ -2,19 +2,19 @@
 IS 117 A03 assignment
 Github is open source repository hosting service.
 
-GIT= open source program for tracking changes in text files
+GIT= open source program for tracking changes in text files.
 
 GITHUB= open source repository hosting service.
 
 Repository= a repository is the most basic element of GitHub. it the project folder so to speak.
 
-Clone=  it is a copy of a repository that lives on your computer instead of on a website's server somewhere
+Clone=  it is a copy of a repository that lives on your computer instead of on a website's server somewhere.
 
 Commit=  this is a revision of individial change made in a file.
 
 Push= pushing is when you implement your changes so that other colaborators can use it.
 
-Pull= when fetching for changes made in a file or a folder
+Pull= when fetching for changes made in a file or a folder.
 
 Branch= a branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the live version. 
 
